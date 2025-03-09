@@ -11,8 +11,6 @@
   
 - 🌱 I’m currently learning **Swift IOS Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/marwancode/](https://www.linkedin.com/in/marwancode/)
-
 - 💬 Ask me about **Node.js, TypeScript, Laravel, PHP, SQL, Flutter, Dart, Kotlin**
 
 - 📫 How to reach me **marwanbemo0@gmail.com**
